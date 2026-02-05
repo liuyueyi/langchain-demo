@@ -6,7 +6,7 @@
 
 ### 🎯 基础篇
 
-#### [00 - 项目工程基础](./00-project-setup-foundations.md)
+#### [00 - 项目工程基础](C0/00-project-setup-foundations.md)
 **LangChain实战开发的起点**
 - 现代化Python项目工程化实践
 - uv包管理器的使用
@@ -16,7 +16,7 @@
 
 **核心技能**：项目初始化、依赖管理、配置分离
 
-#### [01 - 基础同步调用](./01-basic-sync-invocation.md)
+#### [01 - 基础同步调用](C1/01-basic-sync-invocation.md)
 **掌握LangChain核心技能**
 - 环境配置管理与API密钥安全
 - 模型初始化参数详解
@@ -30,7 +30,7 @@
 
 ### 🚀 核心技能篇
 
-#### [02 - 批量调用优化](./02-batch-processing-optimization.md)
+#### [02 - 批量调用优化](C1/02-batch-processing-optimization.md)
 **效率提升10倍的批量处理技术**
 - 批量调用原理与实现
 - `batch_as_completed`实时反馈机制
@@ -40,7 +40,7 @@
 
 **核心技能**：批量处理、性能优化、实时反馈
 
-#### [03 - 流式调用体验](./03-streaming-call-experience.md)
+#### [03 - 流式调用体验](C1/03-streaming-call-experience.md)
 **深入理解流式输出机制**
 - 流式调用工作原理解析
 - 实时输出控制技术
@@ -50,7 +50,7 @@
 
 **核心技能**：流式处理、实时交互、用户体验
 
-#### [04 - 多轮对话管理](./04-multi-turn-dialogue-management.md)
+#### [04 - 多轮对话管理](C1/04-multi-turn-dialogue-management.md)
 **解决复杂对话场景**
 - 对话状态管理技术
 - 上下文处理与压缩
@@ -64,7 +64,7 @@
 
 ### 🔧 高级应用篇
 
-#### [05 - 工具调用赋能](./05-tool-calling-empowerment.md)
+#### [05 - 工具调用赋能](C1/05-tool-calling-empowerment.md)
 **让AI具备真实世界操作能力**
 - 工具注册与绑定机制
 - 参数解析与验证
@@ -74,7 +74,7 @@
 
 **核心技能**：工具集成、外部系统对接、任务自动化
 
-#### [06 - 结构化输出终极指南](./06-structured-output-guide.md)
+#### [06 - 结构化输出终极指南](C1/06-structured-output-guide.md)
 **数据一致性与类型安全保障**
 - Pydantic模型方式（推荐）
 - TypedDict轻量级方案
