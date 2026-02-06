@@ -33,6 +33,8 @@ venv/
 ENV/
 env/
 
+.qoder/
+
 # IDE相关
 .idea/
 .vscode/
