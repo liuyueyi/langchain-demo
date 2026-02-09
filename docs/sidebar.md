@@ -13,3 +13,6 @@
     * 第二部分 Tools
        * [10. 工具定义与注册基础指南](C2/01-basic-tools-definition-guide.md)
        * [11. 工具Schema定义与参数验证进阶](C2/02-tool-schema-advanced-guide.md)
+    * 第三部分 Agents
+       * [12. 智能体基础使用与交互实战](C3/01-basic-agents-usage-guide.md)
+       * [13. 智能体工具高级应用与动态注册实战](C3/02-agents-tools-advanced-guide.md)

@@ -20,22 +20,6 @@
   - `StructuredTool` 手动创建
   - Schema 验证错误处理
 
-### 3. ContextAccessTools.py
-- **主题**: 上下文访问
-- **内容**:
-  - 自定义 `BaseTool` 子类
-  - 访问会话和运行时上下文
-  - 全局状态管理和模拟
-  - 上下文感知工具实现
-
-### 4. ComprehensiveToolsDemo.py
-- **主题**: 综合实战示例
-- **内容**:
-  - 整合前三部分概念
-  - 实际应用场景（任务管理）
-  - 错误处理和验证
-  - 特性对比总结
-
 ## 学习路径
 
 按以下顺序学习以获得最佳效果：
@@ -48,14 +32,6 @@
    - 掌握复杂参数定义
    - 学习参数验证机制
 
-3. **上下文操作** → `ContextAccessTools.py`
-   - 理解上下文访问模式
-   - 学习状态管理
-
-4. **综合应用** → `ComprehensiveToolsDemo.py`
-   - 实际项目应用示例
-   - 最佳实践参考
-
 ## 运行示例
 
 每个文件都可以独立运行：
@@ -64,8 +40,6 @@
 cd basic03-tools
 python BasicToolDefinition.py
 python AdvancedSchemaTools.py
-python ContextAccessTools.py
-python ComprehensiveToolsDemo.py
 ```
 
 ## 核心概念
@@ -79,11 +53,6 @@ python ComprehensiveToolsDemo.py
 - 使用 Pydantic `BaseModel` 定义参数结构
 - 支持类型验证、范围限制、枚举值等
 - 自动生成工具描述和参数文档
-
-### 上下文访问
-- 通过 `BaseTool` 子类访问运行时上下文
-- 支持会话状态、历史记录等上下文信息
-- 可与外部系统集成
 
 ## 实践要点
 

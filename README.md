@@ -59,6 +59,7 @@ uv run python basic00/HelloLangChain.py
 ## 核心功能
 
 - 🤖 基于 DeepSeek 模型的智能对话系统
+- 🧠 完整的 Agents 功能实现（工具调用、记忆、流式等）
 - 🌊 实时流式输出，提升交互体验
 - ⚙️ 安全的环境变量配置管理
 - 🎨 美化的终端输出格式
